@@ -1,0 +1,26 @@
+.colTitle {
+    font-size: 20px;
+    color: aliceblue;
+    padding: 5px;
+    margin-top: 10px;
+    font-weight: 700;
+}
+
+.b1 {
+    width: 40px;
+    padding: 2px;
+    margin: 2px;
+    background-color: burlywood;
+}
+
+.txt {
+    width: 170px;
+    background-color: antiquewhite;
+}
+
+.container {
+
+    width: 220px;
+    height: 275px;
+    border-radius: 10px;
+}
